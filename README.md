@@ -81,53 +81,6 @@
 
 ---
 
-## 🧠 System Architecture
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                        DERMSCOPE REVIVE CARRIER PCB                 │
-│                                                                     │
-│  ┌──────────┐    ┌────────────────┐    ┌────────────────────────┐  │
-│  │ MICRO USB│───▶│  TP4056 CHARGE │    │     INVENSOM-6UL SOM   │  │
-│  └──────────┘    │    MODULE      │    │  NXP i.MX6UL Cortex-A7 │  │
-│                  └───────┬────────┘    │   up to 900 MHz         │  │
-│  ┌──────────┐            │            │   1GB DDR3 / 2GB NAND   │  │
-│  │ BATTERY  │──────┐     ▼            └──────────┬─────────────┘  │
-│  └──────────┘      │ ┌────────────┐              │                 │
-│                    │ │ OVER/REVERSE│   ┌──────────▼──────────────┐  │
-│  ┌──────────┐      └▶│  VOLTAGE   ├──▶│     POWER SUPPLY        │  │
-│  │ 15V 1x2  │        │ PROTECTION │   │     (+5V, EN)           │  │
-│  └──────────┘        └────────────┘   └─────────────────────────┘  │
-│                                                                     │
-│  ┌─────── DISPLAY OUTPUTS ─────────────────────────────────────┐   │
-│  │  MIPI DSI 4-Lane ──▶ DSI-to-HDMI/LVDS ──▶ MIPI DSI CONN   │   │
-│  │                                       ──▶ HDMI 1.4 CONN    │   │
-│  │                                       ──▶ LVDS CONN        │   │
-│  └─────────────────────────────────────────────────────────────┘   │
-│                                                                     │
-│  ┌─────── CAMERA INPUT ────────────────────────────────────────┐   │
-│  │  MIPI CSI 4-Lane ──────────────────────▶ MIPI CSI CONN     │   │
-│  └─────────────────────────────────────────────────────────────┘   │
-│                                                                     │
-│  ┌─────── USB & STORAGE ───────────────────────────────────────┐   │
-│  │  USB1 ──▶ OTG Micro USB                                     │   │
-│  │  USB2 ──▶ USB HUB ──▶ 4× USB 2.0 Type-A                   │   │
-│  │  UART2/UART4 ──▶ Selection Header ──▶ USB TTL Debug        │   │
-│  │  SDIO2 ──▶ SD Card Connector                               │   │
-│  └─────────────────────────────────────────────────────────────┘   │
-│                                                                     │
-│  ┌─────── ADC / GPIO / EXPANDERS ──────────────────────────────┐   │
-│  │  eCSPI2 ──▶ MCP3208-B ADC (CH0–CH7) ──▶ ADC Connectors    │   │
-│  │  GPIO_EXP 1–7 ──▶ GPIO Output Connector (Lens Interface)   │   │
-│  │  GPIO_EXP 2–6 ──▶ GPIO EXT Connector                      │   │
-│  │  I2C4 ──▶ J1102 Connector                                  │   │
-│  │  UART3 ──▶ J1101 Connector                                  │   │
-│  └─────────────────────────────────────────────────────────────┘   │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
----
-
 ## 💻 INVENSOM-6UL SOM — Processor Module
 
 This carrier board is designed exclusively for the **INVENSOM-6UL** System on Module by Inventron.
