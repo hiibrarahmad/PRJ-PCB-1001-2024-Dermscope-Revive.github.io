@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://hiibrarahmad.github.io/PRJ-2026-PCB-0005-DERMSCOPE-REVIVE.github.io/ASSETS/PRJ-2026-PCB-0005-DERMSCOPE-REVIVE.png" width="100%" alt="DermScope REVIVE — Top View"/>
+<img src="https://hiibrarahmad.github.io/PRJ-PCB-1001-2024-Dermscope-Revive.github.io/ASSETS/PRJ-2026-PCB-0005-DERMSCOPE-REVIVE.png" width="100%" alt="DermScope REVIVE — Top View"/>
 
 ---
 
@@ -19,13 +19,13 @@
 
 [![License](https://img.shields.io/badge/License-Proprietary%20%C2%A9%20RMT-dc2626?style=for-the-badge)](./LICENSE)
 [![Changelog](https://img.shields.io/badge/Changelog-V2%20Released-16a34a?style=for-the-badge)](./CHANGELOG.md)
-[![Last Commit](https://img.shields.io/github/last-commit/hiibrarahmad/PRJ-2026-PCB-0005-DERMSCOPE-REVIVE.github.io?style=for-the-badge&color=0891b2&label=Last%20Commit)](../../commits/main)
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-22c55e?style=for-the-badge&logo=github)](https://hiibrarahmad.github.io/PRJ-2026-PCB-0005-DERMSCOPE-REVIVE.github.io/)
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=hiibrarahmad.PRJ-2026-PCB-0005-DERMSCOPE-REVIVE.github.io&style=for-the-badge&color=0e7490)](https://github.com/hiibrarahmad/PRJ-2026-PCB-0005-DERMSCOPE-REVIVE.github.io)
+[![Last Commit](https://img.shields.io/github/last-commit/hiibrarahmad/PRJ-PCB-1001-2024-Dermscope-Revive.github.io?style=for-the-badge&color=0891b2&label=Last%20Commit)](../../commits/main)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-22c55e?style=for-the-badge&logo=github)](https://hiibrarahmad.github.io/PRJ-PCB-1001-2024-Dermscope-Revive.github.io/)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=hiibrarahmad.PRJ-PCB-1001-2024-Dermscope-Revive.github.io&style=for-the-badge&color=0e7490)](https://github.com/hiibrarahmad/PRJ-PCB-1001-2024-Dermscope-Revive.github.io)
 
 <br/>
 
-[🔬 Interactive PCB View](https://hiibrarahmad.github.io/PRJ-2026-PCB-0005-DERMSCOPE-REVIVE.github.io/) · [📋 Project Assets](https://github.com/hiibrarahmad/PRJ-2026-PCB-0005-DERMSCOPE-REVIVE.github.io/tree/main/ASSETS) · [🌐 Revive Medical Technology](https://rmt-usa.com/) · [📜 License](./LICENSE) · [📝 Changelog](./CHANGELOG.md)
+[🔬 Interactive PCB View](https://hiibrarahmad.github.io/PRJ-PCB-1001-2024-Dermscope-Revive.github.io/) · [📋 Project Assets](https://github.com/hiibrarahmad/PRJ-PCB-1001-2024-Dermscope-Revive.github.io/tree/main/ASSETS) · [🌐 Revive Medical Technology](https://rmt-usa.com/) · [📜 License](./LICENSE) · [📝 Changelog](./CHANGELOG.md)
 </div>
 
 ---
@@ -46,14 +46,14 @@
 
 **🔝 Top Side**
 
-<img src="https://hiibrarahmad.github.io/PRJ-2026-PCB-0005-DERMSCOPE-REVIVE.github.io/ASSETS/PRJ-2026-PCB-0005-DERMSCOPE-REVIVE.png" width="100%" alt="DermScope PCB — Top View"/>
+<img src="https://hiibrarahmad.github.io/PRJ-PCB-1001-2024-Dermscope-Revive.github.io/ASSETS/PRJ-2026-PCB-0005-DERMSCOPE-REVIVE.png" width="100%" alt="DermScope PCB — Top View"/>
 
 </td>
 <td align="center" width="50%">
 
 **🔻 Bottom Side**
 
-<img src="https://hiibrarahmad.github.io/PRJ-2026-PCB-0005-DERMSCOPE-REVIVE.github.io/ASSETS/PRJ-2026-PCB-0005-DERMSCOPE-REVIVE bot.png" width="100%" alt="DermScope PCB — Bottom View"/>
+<img src="https://hiibrarahmad.github.io/PRJ-PCB-1001-2024-Dermscope-Revive.github.io/ASSETS/PRJ-2026-PCB-0005-DERMSCOPE-REVIVE bot.png" width="100%" alt="DermScope PCB — Bottom View"/>
 
 </td>
 </tr>
@@ -61,7 +61,7 @@
 
 <div align="center">
 
-🔗 **[→ View Interactive PCB Online](https://hiibrarahmad.github.io/PRJ-2026-PCB-0005-DERMSCOPE-REVIVE.github.io/)**
+🔗 **[→ View Interactive PCB Online](https://hiibrarahmad.github.io/PRJ-PCB-1001-2024-Dermscope-Revive.github.io/)**
 
 </div>
 
@@ -301,7 +301,7 @@ This board was designed for **[Revive Medical Technology (RMT)](https://rmt-usa.
 ## 📁 Repository Structure
 
 ```
-PRJ-2026-PCB-0005-DERMSCOPE-REVIVE.github.io/
+PRJ-PCB-1001-2024-Dermscope-Revive.github.io/
 │
 ├── ASSETS/
 │   ├── PRJ-2026-PCB-0005-DERMSCOPE-REVIVE.png       ← Top view (PNG)
@@ -329,7 +329,7 @@ PRJ-2026-PCB-0005-DERMSCOPE-REVIVE.github.io/
 
 | Resource | URL |
 |----------|-----|
-| 🌐 Interactive PCB View | [hiibrarahmad.github.io/PRJ-2026-PCB-0005-DERMSCOPE-REVIVE.github.io](https://hiibrarahmad.github.io/PRJ-2026-PCB-0005-DERMSCOPE-REVIVE.github.io/) |
+| 🌐 Interactive PCB View | [hiibrarahmad.github.io/PRJ-PCB-1001-2024-Dermscope-Revive.github.io](https://hiibrarahmad.github.io/PRJ-PCB-1001-2024-Dermscope-Revive.github.io/) |
 | 🏢 Revive Medical Technology | [rmt-usa.com](https://rmt-usa.com/) |
 | 📦 INVENSOM-6UL SOM | [Inventron](https://www.inventron.net/) |
 | 📜 License | [LICENSE](./LICENSE) |
